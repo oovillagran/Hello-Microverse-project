@@ -1,0 +1,27 @@
+{
+  "name": "hello-microverse-project",
+  "version": "1.0.0",
+  "description": "📖 [Setup a \"Hello Microverse\" project]\r This excercise intends to reinforce knowledge about how projects must be developed in order to get a good code review experience in Microverse program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oovillagran/Hello-Microverse-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oovillagran/Hello-Microverse-project/issues"
+  },
+  "homepage": "https://github.com/oovillagran/Hello-Microverse-project#readme",
+  "devDependencies": {
+    "hint": "^7.1.3",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
