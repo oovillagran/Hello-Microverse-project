@@ -144,9 +144,9 @@ To run tests, execute the following command:
 
 👤 **Author1**
 
-- GitHub: [@oovillagran](https://github.com/goovillagran)
+- GitHub: [@oovillagran](https://github.com/oovillagran)
 - Twitter: [@oovillagran](https://twitter.com/oovillagran)
-- LinkedIn: [linkedin.com/in/oscar-villagran-91b13859](https://linkedin.com/in/loscar-villagran-91b13859)
+- LinkedIn: [linkedin.com/in/oscar-villagran-91b13859](https://linkedin.com/in/oscar-villagran-91b13859)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
