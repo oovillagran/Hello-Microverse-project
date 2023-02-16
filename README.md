@@ -3,9 +3,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Set up a "Hello Microverse" Project</b></h3>
 
 </div>
@@ -47,23 +44,23 @@
 
 
 <details>
-  <summary>GitHub flow</summary>
+  <summary>HTML</summary>
   <ul>
-    <li>GitHub flow</li>
+    <li>HTML</li>
   </ul>
 </details>
 
 <details>
-  <summary>Commit messages</summary>
+  <summary>CSS</summary>
   <ul>
-    <li>Commitmessages</li>
+    <li>CSS</li>
   </ul>
 </details>
 
 <details>
-<summary>Pull Requests</summary>
+<summary>Linters</summary>
   <ul>
-    <li>Pull Requests</li>
+    <li>Linters</li>
   </ul>
 </details>
 
@@ -73,8 +70,8 @@
 
 
 - **Creating branches on repositories.**
-- **Use of linter on html&css project.**
-- **Write a descriptive README file.**
+- **Use of linter on HTML&CSS project.**
+- **Write a correct descriptive README file.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +81,7 @@
 
 
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,85 +91,33 @@
 
 
 
-To get a local copy up and running, follow these steps.
+- N/A
 
 ### Prerequisites
 
-In order to run this project you need:
+- N/A
 
-- **Understand the concept of version control.**
-- **Follow GitHub flow.**
-- **Open a pull request on GitHub.**
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
 
 ### Setup
 
-Clone this repository to your desired folder:
+- N/A
 
-<!--
-Example commands:
-
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
+- N/A
 
 ### Usage
 
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
+- N/A
 
 ### Run tests
 
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
+- N/A
 
 ### Deployment
 
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,12 +126,11 @@ Example:
 ## 👥 Authors <a name="authors"></a>
 
 
-
 👤 **Author1**
 
-- GitHub: [@oovillagran](https://github.com/githubhandle)
-- Twitter: [@oovillagran](https://twitter.com/twitterhandle)
-- LinkedIn: [linkedin.com/in/oscar-villagran-91b13859](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@oovillagran](https://github.com/goovillagran)
+- Twitter: [@oovillagran](https://twitter.com/oovillagran)
+- LinkedIn: [linkedin.com/in/oscar-villagran-91b13859](https://linkedin.com/in/loscar-villagran-91b13859)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -197,7 +141,7 @@ Example:
 
 
 
-- [ ] **Use of linter in html&css projects**
+- [ ] **Use of linter in HTML&CSS projects**
 - [ ] **Use README template file**
 - [ ] **Ask for a code review**
 
@@ -227,26 +171,15 @@ If you like this project feel free to make any comment, all contributions are we
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-
 I would like to thank my family support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- N/A
 
 <!-- LICENSE -->
 
