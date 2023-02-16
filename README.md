@@ -89,31 +89,47 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-
-
-- N/A
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-- N/A
+In order to run this project you need:
+
+- Understand the concept of version control.
+- Clone or make a copy of this repo on your local machine.
+- Follow GitHub flow.
+- A carefully reading of this README.md is required.
 
 
 ### Setup
 
-- N/A
-
+Clone this repository to your desired folder:
+ 
+ ```bash
+ cd my-folder
+ git clone git@github.com:oovillagran/Hello-Microverse-project.git
+```
 
 ### Install
 
-- N/A
+Install this project with:
+
+ ```bash
+ npm install
+```
 
 ### Usage
 
-- N/A
+To run the project, you can use your favorite browser.
+
 
 ### Run tests
 
-- N/A
+To run tests, execute the following command:
+
+```bash
+ npx hint .
+```
 
 ### Deployment
 
